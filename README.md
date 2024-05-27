@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**musalsouqi/musalsouqi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Mustafa
+😄 - I'm a current Computer Science student based just outside of Chicago, IL. I have experience in various programming languages, with a strong focus on Java, C++, and Python. While studying, I've been working on diverse projects, ranging from web development to app creation. I'm always eager to learn and create new things.
 
-Here are some ideas to get you started:
+🌱 - I've developed a calorie-counting app, multiple websites, and even a Minecraft mod that introduces a new ore. My school projects have also given me a solid foundation in software development. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ - One of my recent projects was a Text based game written in javascript. It was a fun and educational experience.
+
+
+LinkedIn: www.linkedin.com/in/musalsou
+
+Github: https://github.com/musalsouqi
+
+My text-based game: https://nameguru.org/
+
+📫 - Feel free to reach out to me at musalsouqi@gmail.com if you want to chat!
+
+Thanks for reading!
