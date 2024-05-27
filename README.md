@@ -12,6 +12,8 @@ LinkedIn: www.linkedin.com/in/musalsou
 
 Github: https://github.com/musalsouqi
 
+MineCraft Mod: https://www.curseforge.com/minecraft/mc-mods/tanzanite-a-new-ore
+
 My text-based game: https://nameguru.org/
 
 📫 - Feel free to reach out to me at musalsouqi@gmail.com if you want to chat!
