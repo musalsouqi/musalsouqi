@@ -17,6 +17,7 @@ Github: https://github.com/musalsouqi
 MineCraft Mod: https://www.curseforge.com/minecraft/mc-mods/tanzanite-a-new-ore
 
 Portable-AI (My Ai integrated Chat bot code): https://github.com/musalsouqi/Portable-Ai
+https://youtu.be/-McSw05rd1w
 
 📫 - Feel free to reach out to me at musalsouqi@gmail.com if you want to chat!
 
