@@ -10,8 +10,6 @@ I'm Mustafa
 
 LinkedIn: www.linkedin.com/in/musalsou
 
-My Website: https://mustafaportfolio.com
-
 Github: https://github.com/musalsouqi
 
 MineCraft Mod: https://www.curseforge.com/minecraft/mc-mods/tanzanite-a-new-ore
