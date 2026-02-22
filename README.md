@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Mustafa
 
-I'm a Computer Science student based just outside of Chicago, IL, graduating in November 2025. I’m focused on becoming a software developer and building scalable, well-structured systems.
+I'm a Computer Science student based just outside of Chicago, IL, graduating in Auguest 2026. I’m focused on becoming a software developer and building scalable, well-structured systems.
 
 I have experience working with:
 
