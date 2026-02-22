@@ -1,22 +1,79 @@
 
-I'm Mustafa
 
-😄 - I'm a current Computer Science student based just outside of Chicago, IL. I have experience in various programming languages, with a strong focus on Java, C++, and Python. While studying, I've been working on diverse projects, ranging from web development to app creation. I'm always eager to learn and create new things.
+# 👋 Hi, I'm Mustafa
 
-🌱 - I've developed a calorie-counting app, multiple websites, and even a Minecraft mod that introduces a new ore. My school projects have also given me a solid foundation in software development. 
+I'm a Computer Science student based just outside of Chicago, IL, graduating in November 2025. I’m focused on becoming a software developer and building scalable, well-structured systems.
 
-⚡ - One of my recent projects was a Text based game written in javascript. It was a fun and educational experience.
+I have experience working with:
 
+* **Java**
+* **C++**
+* **Python**
+* **JavaScript**
+* **C#**
+* Lua
 
-LinkedIn: www.linkedin.com/in/musalsou
+I enjoy designing systems from the ground up, applying object-oriented principles, and writing clean, maintainable code. Most of my projects focus on backend logic, game systems, and full application structure rather than just surface-level features.
 
-Github: https://github.com/musalsouqi
+---
 
-MineCraft Mod: https://www.curseforge.com/minecraft/mc-mods/tanzanite-a-new-ore
+## 🚀 Projects
 
-Portable-AI (My Ai integrated Chat bot code): https://github.com/musalsouqi/Portable-Ai
-https://youtu.be/-McSw05rd1w
+### 🧠 Portable-AI
 
-📫 - Feel free to reach out to me at musalsouqi@gmail.com if you want to chat!
+AI-integrated chatbot built with custom logic and system design.
+Repository: [https://github.com/musalsouqi/Portable-Ai](https://github.com/musalsouqi/Portable-Ai)
+Demo: [https://youtu.be/-McSw05rd1w](https://youtu.be/-McSw05rd1w)
 
-Thanks for reading!
+---
+
+### ⛏ Tanzanite – A New Ore (Minecraft Mod)
+
+A custom Minecraft mod introducing a new ore, tools, and materials into the game. With over 2,000 downloads and thousands of hours of people playing with my mod!
+CurseForge: [https://www.curseforge.com/minecraft/mc-mods/tanzanite-a-new-ore](https://www.curseforge.com/minecraft/mc-mods/tanzanite-a-new-ore)
+
+---
+
+### 🐉 CreatureBattler (Roblox Game – In Progress)
+
+A turn-based creature battle system built with modular architecture, server-client separation, and scalable battle logic.
+
+Focus areas:
+
+* OOP creature system
+* Custom move logic
+* Type effectiveness
+* Experience & leveling system
+* Clean UI architecture
+* Server-side battle manager
+
+---
+
+### 📊 Other Projects
+
+* Calorie-counting application
+* Multiple websites
+* Text-based game written in JavaScript
+* Various academic software design projects
+
+---
+
+## 🌱 Currently Learning
+
+* Advanced system architecture
+* Scalable backend design
+* Clean software patterns
+* Game system design
+* Secure coding practices
+
+---
+
+## 📫 Connect With Me
+
+LinkedIn: [www.linkedin.com/in/musalsou](http://www.linkedin.com/in/musalsou)
+GitHub: [https://github.com/musalsouqi](https://github.com/musalsouqi)
+Email: [musalsouqi@gmail.com](mailto:musalsouqi@gmail.com)
+
+---
+
+Thanks for visiting my profile. I’m always open to collaborating, learning, and building something meaningful.
