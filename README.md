@@ -35,6 +35,7 @@ CurseForge: [https://www.curseforge.com/minecraft/mc-mods/tanzanite-a-new-ore](h
 ---
 
 ### 🐉 CreatureBattler (Roblox Game – In Progress)
+https://github.com/musalsouqi/CreatureBattler
 
 A turn-based creature battle system built with modular architecture, server-client separation, and scalable battle logic.
 
