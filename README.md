@@ -20,7 +20,7 @@ I enjoy designing systems from the ground up, applying object-oriented principle
 ## 🚀 Projects
 
 ### 🐉 Creature Bound: Origins (Game Development – In Progress)
-[https://github.com/musalsouqi/CreatureBattler](https://github.com/musalsouqi/Creature-Bound-Origins)
+https://github.com/musalsouqi/Creature-Bound-Origins
 
 A turn-based creature battle system built with modular architecture, server-client separation, and scalable battle logic.
 
