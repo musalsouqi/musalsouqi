@@ -19,8 +19,9 @@ I enjoy designing systems from the ground up, applying object-oriented principle
 
 ## 🚀 Projects
 
-### 🐉 Creature Bound: Origins (Game Development – In Progress)
-[<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/d56c8c17-b604-4db5-99dd-b5fab7468063" />](https://github.com/musalsouqi/Creature-Bound-Origins)
+### 🐉 Creature Legends (Game Development – In Progress)
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/afcc64ca-91cb-4726-b2b8-ea6033090ae5" />
+
 
 https://github.com/musalsouqi/Creature-Bound-Origins
 
