@@ -19,6 +19,21 @@ I enjoy designing systems from the ground up, applying object-oriented principle
 
 ## 🚀 Projects
 
+### 🐉 Creature Bound: Origins (Game Development – In Progress)
+[https://github.com/musalsouqi/CreatureBattler](https://github.com/musalsouqi/Creature-Bound-Origins)
+
+A turn-based creature battle system built with modular architecture, server-client separation, and scalable battle logic.
+
+Focus areas:
+
+* OOP creature system
+* Custom move logic
+* Type effectiveness
+* Experience & leveling system
+* Clean UI architecture
+* Server-side battle manager
+
+---
 ### 🧠 Portable-AI
 
 AI-integrated chatbot built with custom logic and system design.
@@ -32,21 +47,6 @@ Demo: [https://youtu.be/-McSw05rd1w](https://youtu.be/-McSw05rd1w)
 A custom Minecraft mod introducing a new ore, tools, and materials into the game. With over 2,000 downloads and thousands of hours of people playing with my mod!
 CurseForge: [https://www.curseforge.com/minecraft/mc-mods/tanzanite-a-new-ore](https://www.curseforge.com/minecraft/mc-mods/tanzanite-a-new-ore)
 
----
-
-### 🐉 CreatureBattler (Roblox Game – In Progress)
-https://github.com/musalsouqi/CreatureBattler
-
-A turn-based creature battle system built with modular architecture, server-client separation, and scalable battle logic.
-
-Focus areas:
-
-* OOP creature system
-* Custom move logic
-* Type effectiveness
-* Experience & leveling system
-* Clean UI architecture
-* Server-side battle manager
 
 ---
 
