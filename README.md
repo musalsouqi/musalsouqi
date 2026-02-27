@@ -23,7 +23,7 @@ I enjoy designing systems from the ground up, applying object-oriented principle
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/afcc64ca-91cb-4726-b2b8-ea6033090ae5" />
 
 
-https://github.com/musalsouqi/Creature-Bound-Origins
+https://github.com/musalsouqi/Creature-Legends
 
 A turn-based creature battle system built with modular architecture, server-client separation, and scalable battle logic.
 
